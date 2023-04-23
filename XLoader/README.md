@@ -1,0 +1,1 @@
+Once you build the marlin source files with visual studio code and platformIO, you can use this to easily upload that built hex file to the ender 5 plus main control board.
