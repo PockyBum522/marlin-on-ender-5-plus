@@ -89,7 +89,7 @@
 
 // Choose the name from boards.h that matches your setup
 #ifndef MOTHERBOARD
-  #define MOTHERBOARD BOARD_RAMPS_CREALITY
+  #define MOTHERBOARD BOARD_RAMPS_14_EEB
 #endif
 
 #define X_MAX_PIN  3 // Creality connects X_MAX to X_MIN(_PIN) motherboard connector
