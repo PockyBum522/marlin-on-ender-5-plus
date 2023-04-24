@@ -2,9 +2,9 @@
 
 This is a setup for an Ender 5 Plus with:
 
-  A stock creality display
-  Creality "v2.2" silent board
-  Stock BLTouch from Creality
+* A stock creality display
+* Creality "v2.2" silent board
+* Stock BLTouch from Creality
   
 The point of this repo is to get Marlin 2.1.2 working with the above setup. Hopefully it helps others who want to do the same.
 
